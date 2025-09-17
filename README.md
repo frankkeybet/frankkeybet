@@ -42,3 +42,8 @@ Tech: Django, PostgreSQL, Bootstrap
 📧 Email: frankkeybet@gmail.com
 
 💻 GitHub: github.com/frankkeybet
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frankkeybet/frankkeybet/output/dist/snake.svg" alt="GitHub Snake Animation" />
+</p>
