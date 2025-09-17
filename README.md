@@ -1,8 +1,6 @@
-<!-- Profile Banner -->
-<!-- Replace banner.png with your own generated banner and upload it to this repo -->
-<p align="center">
-  <img src="banner.png" alt="Frankline Kibet | Aspiring Backend Engineer" width="100%" /><img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/6386ae38-9ef4-47e3-8ad5-fc0764e2a36a" />
 
+<p align="left">
+ <img width="500" height="300" alt="banner" src="https://github.com/user-attachments/assets/e88e6323-0e92-4080-9da0-956244f8c2f8" />
 </p>
 
 # 👋 Hi, I’m Frankline Kibet  
