@@ -1,32 +1,46 @@
-<!--
-  GitHub Profile README for Frankline Kibet
-  -> Paste this into your repository named exactly: <your-github-username>/<your-github-username>.github.io or
-     create a repo named <your-github-username> and add a README.md — GitHub will render it on your profile.
-  -> Replace ALL occurrences of YOUR_GITHUB_USERNAME and YOUR_EMAIL with your actual GitHub username and email.
-  -> Keep the LinkedIn URL (it's already set to your public URL).
--->
+<!-- Profile Banner -->
+<!-- Replace banner.png with your own generated banner and upload it to this repo -->
+<p align="center">
+  <img src="banner.png" alt="Frankline Kibet | Aspiring Backend Engineer" width="100%" /><img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/6386ae38-9ef4-47e3-8ad5-fc0764e2a36a" />
 
-# Hi, I’m Frankline Kibet 👋
+</p>
+
+# 👋 Hi, I’m Frankline Kibet  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Frankline%20Kibet-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/frankline-kibet)
-[![Status](https://img.shields.io/badge/Status-Backend%20Engineer%20aspirant-yellowgreen?style=for-the-badge&logo=github)]
+[![Email](https://img.shields.io/badge/Email-frankkeybet%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:frankkeybet@gmail.com)
 
 ---
 
 ## 🚀 About Me
-I’m a backend programming student and an aspiring Backend Engineer. I love turning complex business logic into clean, maintainable services and APIs. Currently focused on building reliable server-side systems, learning distributed systems patterns, and writing tests that I can actually trust.
+I’m an aspiring **Backend Engineer** passionate about building scalable, reliable, and secure backend systems.  
+Currently focused on **Node.js**, **Python (Django/Flask)**, **PostgreSQL**, and **Docker** while developing APIs, background services, and data-driven applications.  
 
-- 🔭 Currently learning: **Node.js (Express)**, **Python (Django / Flask)**, **Postgres**, **Redis**, **Docker**, and **CI/CD**
-- 🌱 Building: RESTful APIs, data models, authentication flows, and scalable background workers
-- 💡 Interests: Clean architecture, observability, performance optimisation, and developer DX
-- 📫 Reach me: `frankkeybet@gmail.com` 
+- 🌱 Currently learning: System design, REST API best practices, CI/CD pipelines  
+- 🛠️ Building: Authentication services, background job workers, and scalable APIs  
+- 💡 Interests: Clean architecture, performance optimization, and distributed systems  
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Tech Stack
 ```text
-Languages:     Python · JavaScript (Node.js) .Laravel
+Languages:     Python · JavaScript (Node.js) .Laravel .PHP
 Frameworks:    Django · Flask · Express
 Databases:     PostgreSQL · MySQL · Redis
-Testing:       pytest · jest
 DevOps/Infra:  Docker · GitHub Actions · Nginx
-Others:        REST · JSON · SQL · ORM · Message Queues (RabbitMQ / Redis Streams)
+Other Tools:   REST · ORM · Testing (pytest, jest)
+
+📂 Projects Portfolio
+
+HMS (Hospital Management System)
+A management system for handling hospital operations like patient records, appointments, and staff management.
+Tech: Django, PostgreSQL, Bootstrap
+🔗 View Repo
+
+
+🤝 Let’s Connect
+
+🌐 LinkedIn
+
+📧 Email: frankkeybet@gmail.com
+
+💻 GitHub: github.com/frankkeybet
