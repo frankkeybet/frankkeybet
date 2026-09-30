@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-I’m an aspiring **Backend Engineer** passionate about building scalable, reliable, and secure backend systems.  
+I’m a Backend Engineer passionate about building scalable, reliable, and secure backend systems.  
 Currently focused on **Node.js**, **Python (Django/Flask)**, **PostgreSQL**, and **Docker** while developing APIs, background services, and data-driven applications.  
 
 - 🌱 Currently learning: System design, REST API best practices, CI/CD pipelines  
